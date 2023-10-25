@@ -16,7 +16,12 @@ public class Ejemplo01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo,mi nombre es Anthony Joel Romero Yaguana"+
+      "\n ────▄▄▄▄▄▄──────\n" +
+        "─▄▄██┌┐█┌┐█▄▄▄▄─\n" +
+        "─██████████████─\n" +
+        "─▀▀◯▀▀▀▀▀▀▀▀◯▀─");
+        
     }
     
 }

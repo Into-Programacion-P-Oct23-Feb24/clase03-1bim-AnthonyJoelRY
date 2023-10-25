@@ -19,7 +19,7 @@ public class Ejemplo10 {
         int a = 10;
         int b = 1;
         int c = 20;
-
+        System.out.println("JOEL");
         boolean operando1 = a > b; // 10 > 1 // true
         boolean operando2 = c == a; // 20 == 10 // false
         boolean valorC = operando1 && operando2; // false

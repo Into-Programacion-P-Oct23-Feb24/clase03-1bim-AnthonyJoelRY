@@ -23,7 +23,7 @@ public class Ejemplo12 {
         
         boolean resultado = !(a == c || b > d)  && (c > b + d * 2);
         System.out.println(resultado);
-
+        System.out.println("ROMERO");
     }
 
 }

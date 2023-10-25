@@ -34,6 +34,9 @@ public class Ejemplo06 {
         
         System.out.println("----------------");
         System.out.println(10!=2); // true 
+        System.out.println("Anthony Joel Romero Yaguana,25-10-2023");
     }                              // <> 
+    
+  
     
 }

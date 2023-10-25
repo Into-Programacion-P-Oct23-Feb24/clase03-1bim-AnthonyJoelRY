@@ -21,6 +21,7 @@ public class Ejemplo09 {
         
         System.out.println(a); // negación
         System.out.println(c); // negación
+        System.out.println("YAGUANA");
         
     }
     

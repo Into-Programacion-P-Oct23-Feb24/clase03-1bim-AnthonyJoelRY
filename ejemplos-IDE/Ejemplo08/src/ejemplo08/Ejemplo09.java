@@ -21,7 +21,7 @@ public class Ejemplo09 {
         boolean valorC = operando1 && operando2; // false
 
         System.out.println(valorC);
-
+        System.out.println("25-10-2023");
     }
 
 }
