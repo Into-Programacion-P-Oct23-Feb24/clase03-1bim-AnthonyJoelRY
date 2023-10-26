@@ -18,26 +18,30 @@ public class Ejemplo05 {
         // TODO code application logic here
         System.out.println("----------------");
         System.out.println(10 / 3);
-        
+      
         System.out.println("----------------");
         System.out.println(10 / 3.0);
-        
+
         System.out.println("----------------");
+        
         System.out.println(10 / 3.0 + 1);
         System.out.println(10 / (3.0 + 1));
         
+
+        
         System.out.println("----------------");
         System.out.println(10 % 3 );
-        
+
         System.out.println("----------------");
-        System.out.println(Math.pow(10, 2));
-        
+        System.out.println(Math.pow(10, 2));//El metodo pow me permite elevar a una potencia a un valor dado
+
         System.out.println("----------------");
-        System.out.println(Math.sqrt(16));
-        
+        System.out.println(Math.sqrt(16));// El metodo sqrt me permite sacr la raiz cuadrada de un valor dado
+/*         
         double m = Math.sqrt(16);
         System.out.println(m);
         System.out.println("Anthony Joel,declación aprendida Math.sqrt me deja sacar la raiz cuadrada");
+*/
     }
 
 }
